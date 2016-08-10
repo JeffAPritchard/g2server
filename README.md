@@ -5,3 +5,5 @@ This is a very simple API-only rails 5 app.  It serves a few tables for tracking
 The actual image files are served from Amazon S3.
 
 The bulk of the project is a separate Angular 2 project called "g2client"
+
+This project was just started on August 9, 2016 - it is still very much "in progress"
