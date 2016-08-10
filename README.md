@@ -1,24 +1,7 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is a very simple API-only rails 5 app.  It serves a few tables for tracking images and their meta data.
 
-Things you may want to cover:
+The actual image files are served from Amazon S3.
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+The bulk of the project is a separate Angular 2 project called "g2client"
